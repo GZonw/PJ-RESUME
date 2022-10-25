@@ -106,6 +106,9 @@
   border-radius:10px;
   position: relative;
 }
+.grid-card .box img.bg{
+
+}
 .content .box h2{
   position:absolute;
   bottom: 10px;
@@ -118,10 +121,19 @@
   transform: translatey(-7%);
   transition: .5s;
 }
+.bg1{
+  background-image:url(https://pbs.twimg.com/media/Ff7HBGxVIAIU9q3?format=png&name=medium);
+}
+.bg2{
+  background-image:url(https://pbs.twimg.com/media/Ff7HBGyUUAARWKf?format=jpg&name=medium);
+}
+.bg3{
+  background-image:url(https://pbs.twimg.com/media/Ff7TQtmUAAAyOeA?format=png&name=medium);
+}
+.bg4{
+  background-image:url(https://pbs.twimg.com/media/Ff7HBGwVsAANamq?format=jpg&name=medium);
+}
 .resume{
-  background-image:Nawaphon_Phatthaisong.png;
-  width: 1414px;
-  height: 2100px;
   background-position:center;
   background-size:cover;
   border-radius:10px;
